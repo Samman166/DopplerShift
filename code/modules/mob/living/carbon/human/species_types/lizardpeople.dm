@@ -15,7 +15,6 @@
 		/obj/item/organ/frills = SPRITE_ACCESSORY_NONE,
 		/obj/item/organ/snout = "Round",
 		/obj/item/organ/spines = SPRITE_ACCESSORY_NONE,
-		/obj/item/organ/tail/lizard = "Smooth",
 	)
 	mutanttongue = /obj/item/organ/tongue/lizard
 	mutanteyes = /obj/item/organ/eyes/lizard
